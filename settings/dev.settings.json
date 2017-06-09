@@ -1,0 +1,11 @@
+{
+  "ROOT_URL": "",
+  "MAIL_URL": "",
+  "reaction": {
+    "REACTION_USER": "aliyoung",
+    "REACTION_AUTH": "arthur775",
+    "REACTION_EMAIL": "aliyoung775@outlook.com"
+  },
+  "REACTION_LOG_LEVEL": "info",
+  "public": {}
+}

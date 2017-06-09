@@ -1,0 +1,17 @@
+[{
+  "i18n": "he",
+  "ns": "reaction-social",
+  "translation": {
+    "reaction-social": {
+      "admin": {
+        "settings": {
+          "facebook": "Facebook",
+          "twitter": "Twitter",
+          "pinterest": "Pinterest",
+          "googleplus": "Google+",
+          "username": "שם משתמש"
+        }
+      }
+    }
+  }
+}]

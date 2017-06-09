@@ -1,0 +1,16 @@
+[{
+  "i18n": "tr",
+  "ns": "product-detail-simple",
+  "translation": {
+    "product-detail-simple": {
+      "admin": {
+        "settings": {
+          "productDetailsLabel": "Ürün Detayları"
+        },
+        "inventoryAlerts": {
+          "adjustedQuantity": "Ürününüz miktar stok maksimum miktara ayarlandı"
+        }
+      }
+    }
+  }
+}]
