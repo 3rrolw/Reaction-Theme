@@ -10,6 +10,9 @@ reaction:
   environment:
     ROOT_URL: "http://localhost"
     MONGO_URL: "mongodb://mongo:27017/reaction"
+    REACTION_EMAIL: "reaction@admin.com"
+    REACTION_USER: "reaction_admin"
+    REACTION_AUTH: "reaction775"
 
 mongo:
   image: mongo:latest
